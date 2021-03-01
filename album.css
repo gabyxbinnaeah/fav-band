@@ -1,11 +1,17 @@
-
 body {
     font-family: Arial, Helvetica, sans-serif;
-}
+
+  }
+  img{
+      width: 1200PX;
+      height: 600px;
+      
+  }
   
   .navbar {
     overflow: hidden;
     background-color: #333;
+    width: 1200px;
   }
   
   .navbar a {
