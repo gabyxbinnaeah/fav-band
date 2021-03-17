@@ -1,7 +1,9 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(https://images.unsplash.com/photo-1589997419427-daff54553276?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
+    background-color: aqua;
+    background-repeat: no-repeat;
+
 }
   
   .navs{
@@ -25,7 +27,7 @@ body {
   }
   
   .navs a.active {
-    background-color: #4CAF50;
+    background-color: black;
     color: white;
   }
   h1{
@@ -34,11 +36,17 @@ body {
   .event{
       text-align: center;
       border-radius:  10px;
-      padding-top: 400px;
       font-size: 50px;
-      color: chartreuse;
+      color: black;
       font-style: italic;
 
       
+  }
+  .bio{
+      text-align: center;
+      color: black;
+  }
+  .favorite_songs{
+    text-align: center;
   }
   
